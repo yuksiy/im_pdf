@@ -55,4 +55,4 @@ MIT License. See [LICENSE](https://github.com/yuksiy/im_pdf/blob/master/LICENSE)
 
 ## Copyright
 
-Copyright (c) 2013-2017 Yukio Shiiya
+Copyright (c) 2013-2026 Yukio Shiiya
