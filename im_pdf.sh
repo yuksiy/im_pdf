@@ -155,7 +155,7 @@ fi
 
 # PDFファイルの作成
 #echo "-I Making PDF file..."
-CMD_V convert "$@" "${PDF_FILE_TMP}"
+CMD_V magick "$@" "${PDF_FILE_TMP}"
 if [ $? -ne 0 ];then
 	echo "-E Command has ended unsuccessfully." 1>&2
 	POST_PROCESS;exit 1
